@@ -8,6 +8,6 @@ This is a site without much functionality for now. The main focus is the applica
 - CSS;
 - Bootstrap;
 
-## Live Demo
+## Live Preview:
 
 https://ivooo369.github.io/Simple-Bootstrap-Site/
